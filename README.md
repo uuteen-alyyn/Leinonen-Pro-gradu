@@ -3,8 +3,7 @@
 Tämä GitHub-repositorio sisältää pro gradu -tutkielmassa käytetyn
 aineiston, analyysikoodin sekä visualisointityökalun.
 
-Repositorio on tarkoitettu tutkielman lukijoille ja tarkastajille,
-jotta analyysi ja tulokset ovat mahdollisimman läpinäkyviä ja
+Repositorion avulla analyysi ja tulokset ovat mahdollisimman läpinäkyviä ja
 toistettavia.
 
 ---
