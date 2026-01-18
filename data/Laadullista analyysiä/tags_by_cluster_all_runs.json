@@ -1,0 +1,1365 @@
+{
+  "eom": {
+    "source_cluster_file": "out/cluster_labels_eom.json",
+    "include_noise": true,
+    "clusters": {
+      "2": {
+        "cluster_size": 802,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 557,
+            "prevalence": 0.6945
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 475,
+            "prevalence": 0.5923
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 312,
+            "prevalence": 0.389
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p12405",
+            "label": "foreign policy",
+            "doc_count": 245,
+            "prevalence": 0.3055
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 243,
+            "prevalence": 0.303
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 222,
+            "prevalence": 0.2768
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9566",
+            "label": "security policy",
+            "doc_count": 177,
+            "prevalence": 0.2207
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 156,
+            "prevalence": 0.1945
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 134,
+            "prevalence": 0.1671
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 129,
+            "prevalence": 0.1608
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1730",
+            "label": "international cooperation",
+            "doc_count": 124,
+            "prevalence": 0.1546
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2157",
+            "label": "geopolitics",
+            "doc_count": 102,
+            "prevalence": 0.1272
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p10319",
+            "label": "Cold War",
+            "doc_count": 84,
+            "prevalence": 0.1047
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4584",
+            "label": "economic development",
+            "doc_count": 80,
+            "prevalence": 0.0998
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7349",
+            "label": "safety and security",
+            "doc_count": 74,
+            "prevalence": 0.0923
+          }
+        ]
+      },
+      "-1": {
+        "cluster_size": 15,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 8,
+            "prevalence": 0.5333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p16532",
+            "label": "international economics",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p108739",
+            "label": "Chechnya",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9900",
+            "label": "political crises",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p28382",
+            "label": "Chechen War",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9910",
+            "label": "great powers",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3297",
+            "label": "forecasts",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105023",
+            "label": "Japan",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4584",
+            "label": "economic development",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          }
+        ]
+      },
+      "1": {
+        "cluster_size": 7,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2108",
+            "label": "events",
+            "doc_count": 7,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1255",
+            "label": "magazines",
+            "doc_count": 6,
+            "prevalence": 0.8571
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1188",
+            "label": "periodicals",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5121",
+            "label": "exhibitions",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p24304",
+            "label": "event production",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 1,
+            "prevalence": 0.1429
+          }
+        ]
+      },
+      "0": {
+        "cluster_size": 6,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1208",
+            "label": "Russians",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p108743",
+            "label": "Shanghai",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17103",
+            "label": "history of literature",
+            "doc_count": 4,
+            "prevalence": 0.6667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p84",
+            "label": "education and training",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          }
+        ]
+      }
+    }
+  },
+  "leaf_eps_0_5": {
+    "source_cluster_file": "out/cluster_labels_leaf_epsilon 0.5.json",
+    "include_noise": true,
+    "clusters": {
+      "-1": {
+        "cluster_size": 576,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 370,
+            "prevalence": 0.6424
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 284,
+            "prevalence": 0.4931
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 213,
+            "prevalence": 0.3698
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 155,
+            "prevalence": 0.2691
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 148,
+            "prevalence": 0.2569
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p12405",
+            "label": "foreign policy",
+            "doc_count": 140,
+            "prevalence": 0.2431
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9566",
+            "label": "security policy",
+            "doc_count": 125,
+            "prevalence": 0.217
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 114,
+            "prevalence": 0.1979
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 89,
+            "prevalence": 0.1545
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 86,
+            "prevalence": 0.1493
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2157",
+            "label": "geopolitics",
+            "doc_count": 78,
+            "prevalence": 0.1354
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1730",
+            "label": "international cooperation",
+            "doc_count": 76,
+            "prevalence": 0.1319
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7349",
+            "label": "safety and security",
+            "doc_count": 61,
+            "prevalence": 0.1059
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p10319",
+            "label": "Cold War",
+            "doc_count": 58,
+            "prevalence": 0.1007
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94304",
+            "label": "Soviet Union",
+            "doc_count": 57,
+            "prevalence": 0.099
+          }
+        ]
+      },
+      "7": {
+        "cluster_size": 187,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 165,
+            "prevalence": 0.8824
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 164,
+            "prevalence": 0.877
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 92,
+            "prevalence": 0.492
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p12405",
+            "label": "foreign policy",
+            "doc_count": 92,
+            "prevalence": 0.492
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 75,
+            "prevalence": 0.4011
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 62,
+            "prevalence": 0.3316
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9566",
+            "label": "security policy",
+            "doc_count": 46,
+            "prevalence": 0.246
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 39,
+            "prevalence": 0.2086
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1730",
+            "label": "international cooperation",
+            "doc_count": 38,
+            "prevalence": 0.2032
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 31,
+            "prevalence": 0.1658
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p14364",
+            "label": "power politics",
+            "doc_count": 28,
+            "prevalence": 0.1497
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 27,
+            "prevalence": 0.1444
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p10319",
+            "label": "Cold War",
+            "doc_count": 24,
+            "prevalence": 0.1283
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p978",
+            "label": "economic policy",
+            "doc_count": 21,
+            "prevalence": 0.1123
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p16532",
+            "label": "international economics",
+            "doc_count": 20,
+            "prevalence": 0.107
+          }
+        ]
+      },
+      "5": {
+        "cluster_size": 20,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 16,
+            "prevalence": 0.8
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p107650",
+            "label": "Central Asia",
+            "doc_count": 16,
+            "prevalence": 0.8
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 15,
+            "prevalence": 0.75
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105024",
+            "label": "Asia",
+            "doc_count": 12,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p12405",
+            "label": "foreign policy",
+            "doc_count": 9,
+            "prevalence": 0.45
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 7,
+            "prevalence": 0.35
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2157",
+            "label": "geopolitics",
+            "doc_count": 6,
+            "prevalence": 0.3
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p978",
+            "label": "economic policy",
+            "doc_count": 5,
+            "prevalence": 0.25
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p6335",
+            "label": "regional cooperation",
+            "doc_count": 5,
+            "prevalence": 0.25
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p107665",
+            "label": "Kazakhstan",
+            "doc_count": 4,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 4,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p107668",
+            "label": "Tajikistan",
+            "doc_count": 3,
+            "prevalence": 0.15
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9910",
+            "label": "great powers",
+            "doc_count": 3,
+            "prevalence": 0.15
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9828",
+            "label": "European Union countries",
+            "doc_count": 3,
+            "prevalence": 0.15
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9566",
+            "label": "security policy",
+            "doc_count": 3,
+            "prevalence": 0.15
+          }
+        ]
+      },
+      "6": {
+        "cluster_size": 18,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 18,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 17,
+            "prevalence": 0.9444
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 15,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3225",
+            "label": "elections",
+            "doc_count": 14,
+            "prevalence": 0.7778
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 11,
+            "prevalence": 0.6111
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17202",
+            "label": "presidential elections",
+            "doc_count": 10,
+            "prevalence": 0.5556
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3219",
+            "label": "political systems",
+            "doc_count": 6,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p19679",
+            "label": "domestic policy",
+            "doc_count": 5,
+            "prevalence": 0.2778
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 4,
+            "prevalence": 0.2222
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p12405",
+            "label": "foreign policy",
+            "doc_count": 4,
+            "prevalence": 0.2222
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 4,
+            "prevalence": 0.2222
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p13376",
+            "label": "political culture",
+            "doc_count": 3,
+            "prevalence": 0.1667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94304",
+            "label": "Soviet Union",
+            "doc_count": 2,
+            "prevalence": 0.1111
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9763",
+            "label": "progress of a society",
+            "doc_count": 2,
+            "prevalence": 0.1111
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p6172",
+            "label": "economic crises",
+            "doc_count": 2,
+            "prevalence": 0.1111
+          }
+        ]
+      },
+      "1": {
+        "cluster_size": 7,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2108",
+            "label": "events",
+            "doc_count": 7,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1255",
+            "label": "magazines",
+            "doc_count": 6,
+            "prevalence": 0.8571
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1188",
+            "label": "periodicals",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5121",
+            "label": "exhibitions",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p24304",
+            "label": "event production",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 1,
+            "prevalence": 0.1429
+          }
+        ]
+      },
+      "0": {
+        "cluster_size": 6,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1208",
+            "label": "Russians",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p108743",
+            "label": "Shanghai",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17103",
+            "label": "history of literature",
+            "doc_count": 4,
+            "prevalence": 0.6667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p84",
+            "label": "education and training",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          }
+        ]
+      },
+      "3": {
+        "cluster_size": 6,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7432",
+            "label": "space",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17503",
+            "label": "nuclear weapons",
+            "doc_count": 3,
+            "prevalence": 0.5
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4056",
+            "label": "arms proliferation",
+            "doc_count": 3,
+            "prevalence": 0.5
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 3,
+            "prevalence": 0.5
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4402",
+            "label": "outer space",
+            "doc_count": 3,
+            "prevalence": 0.5
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7499",
+            "label": "space research",
+            "doc_count": 3,
+            "prevalence": 0.5
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p10319",
+            "label": "Cold War",
+            "doc_count": 2,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17142",
+            "label": "militarism",
+            "doc_count": 2,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17775",
+            "label": "space law",
+            "doc_count": 2,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7349",
+            "label": "safety and security",
+            "doc_count": 2,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9566",
+            "label": "security policy",
+            "doc_count": 2,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p14364",
+            "label": "power politics",
+            "doc_count": 2,
+            "prevalence": 0.3333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3463",
+            "label": "weapons",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p40582",
+            "label": "nuclear deterrence",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9565",
+            "label": "defence policy",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          }
+        ]
+      },
+      "2": {
+        "cluster_size": 5,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1730",
+            "label": "international cooperation",
+            "doc_count": 4,
+            "prevalence": 0.8
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 3,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 3,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p272",
+            "label": "organisations (systems)",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p108743",
+            "label": "Shanghai",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15827",
+            "label": "economic cooperation",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7903",
+            "label": "innovations",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p183",
+            "label": "research",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p10895",
+            "label": "universities",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2039",
+            "label": "research and development operations",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p8310",
+            "label": "innovativeness",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p554",
+            "label": "leadership (activity)",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4230",
+            "label": "development (active)",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p6334",
+            "label": "cooperation (general)",
+            "doc_count": 1,
+            "prevalence": 0.2
+          }
+        ]
+      },
+      "4": {
+        "cluster_size": 5,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17004",
+            "label": "developing countries",
+            "doc_count": 5,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p16532",
+            "label": "international economics",
+            "doc_count": 3,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p29432",
+            "label": "BRICS countries",
+            "doc_count": 3,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 3,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1730",
+            "label": "international cooperation",
+            "doc_count": 3,
+            "prevalence": 0.6
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4584",
+            "label": "economic development",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3845",
+            "label": "development cooperation",
+            "doc_count": 2,
+            "prevalence": 0.4
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3866",
+            "label": "internationalisation",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7904",
+            "label": "modernisation",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3867",
+            "label": "globalisation",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7903",
+            "label": "innovations",
+            "doc_count": 1,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105027",
+            "label": "India",
+            "doc_count": 1,
+            "prevalence": 0.2
+          }
+        ]
+      }
+    }
+  },
+  "leaf_eps_0_6": {
+    "source_cluster_file": "out/cluster_labels_leaf_epsilon 0.6.json",
+    "include_noise": true,
+    "clusters": {
+      "2": {
+        "cluster_size": 802,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 557,
+            "prevalence": 0.6945
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 475,
+            "prevalence": 0.5923
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 312,
+            "prevalence": 0.389
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p12405",
+            "label": "foreign policy",
+            "doc_count": 245,
+            "prevalence": 0.3055
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 243,
+            "prevalence": 0.303
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 222,
+            "prevalence": 0.2768
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9566",
+            "label": "security policy",
+            "doc_count": 177,
+            "prevalence": 0.2207
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 156,
+            "prevalence": 0.1945
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 134,
+            "prevalence": 0.1671
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 129,
+            "prevalence": 0.1608
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1730",
+            "label": "international cooperation",
+            "doc_count": 124,
+            "prevalence": 0.1546
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2157",
+            "label": "geopolitics",
+            "doc_count": 102,
+            "prevalence": 0.1272
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p10319",
+            "label": "Cold War",
+            "doc_count": 84,
+            "prevalence": 0.1047
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4584",
+            "label": "economic development",
+            "doc_count": 80,
+            "prevalence": 0.0998
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p7349",
+            "label": "safety and security",
+            "doc_count": 74,
+            "prevalence": 0.0923
+          }
+        ]
+      },
+      "-1": {
+        "cluster_size": 15,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 8,
+            "prevalence": 0.5333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p16532",
+            "label": "international economics",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5208",
+            "label": "international politics",
+            "doc_count": 3,
+            "prevalence": 0.2
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p108739",
+            "label": "Chechnya",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9900",
+            "label": "political crises",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p28382",
+            "label": "Chechen War",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p9910",
+            "label": "great powers",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p3297",
+            "label": "forecasts",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105078",
+            "label": "United States",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p105023",
+            "label": "Japan",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p4584",
+            "label": "economic development",
+            "doc_count": 2,
+            "prevalence": 0.1333
+          }
+        ]
+      },
+      "1": {
+        "cluster_size": 7,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p2108",
+            "label": "events",
+            "doc_count": 7,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1255",
+            "label": "magazines",
+            "doc_count": 6,
+            "prevalence": 0.8571
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1188",
+            "label": "periodicals",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5121",
+            "label": "exhibitions",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p24304",
+            "label": "event production",
+            "doc_count": 5,
+            "prevalence": 0.7143
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p454",
+            "label": "politics",
+            "doc_count": 1,
+            "prevalence": 0.1429
+          }
+        ]
+      },
+      "0": {
+        "cluster_size": 6,
+        "top_tags": [
+          {
+            "uri": "http://www.yso.fi/onto/yso/p104984",
+            "label": "People's Republic of China",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1208",
+            "label": "Russians",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p1780",
+            "label": "history",
+            "doc_count": 6,
+            "prevalence": 1.0
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p94479",
+            "label": "Russia",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p108743",
+            "label": "Shanghai",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p15286",
+            "label": "political history",
+            "doc_count": 5,
+            "prevalence": 0.8333
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p17103",
+            "label": "history of literature",
+            "doc_count": 4,
+            "prevalence": 0.6667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p5209",
+            "label": "international relations",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          },
+          {
+            "uri": "http://www.yso.fi/onto/yso/p84",
+            "label": "education and training",
+            "doc_count": 1,
+            "prevalence": 0.1667
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "top_tags_global": [
+    {
+      "uri": "http://www.yso.fi/onto/yso/p5209",
+      "label": "international relations",
+      "doc_count": 561
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p94479",
+      "label": "Russia",
+      "doc_count": 482
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p5208",
+      "label": "international politics",
+      "doc_count": 315
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p104984",
+      "label": "People's Republic of China",
+      "doc_count": 251
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p12405",
+      "label": "foreign policy",
+      "doc_count": 245
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p1780",
+      "label": "history",
+      "doc_count": 236
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p9566",
+      "label": "security policy",
+      "doc_count": 177
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p105078",
+      "label": "United States",
+      "doc_count": 158
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p15286",
+      "label": "political history",
+      "doc_count": 137
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p454",
+      "label": "politics",
+      "doc_count": 136
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p1730",
+      "label": "international cooperation",
+      "doc_count": 124
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p2157",
+      "label": "geopolitics",
+      "doc_count": 103
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p10319",
+      "label": "Cold War",
+      "doc_count": 84
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p4584",
+      "label": "economic development",
+      "doc_count": 82
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p7349",
+      "label": "safety and security",
+      "doc_count": 75
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p94304",
+      "label": "Soviet Union",
+      "doc_count": 73
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p978",
+      "label": "economic policy",
+      "doc_count": 73
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p14364",
+      "label": "power politics",
+      "doc_count": 73
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p107650",
+      "label": "Central Asia",
+      "doc_count": 68
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p4632",
+      "label": "strategies",
+      "doc_count": 68
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p105024",
+      "label": "Asia",
+      "doc_count": 67
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p16532",
+      "label": "international economics",
+      "doc_count": 66
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p2555",
+      "label": "economy",
+      "doc_count": 54
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p94111",
+      "label": "Europe",
+      "doc_count": 46
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p9828",
+      "label": "European Union countries",
+      "doc_count": 46
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p3867",
+      "label": "globalisation",
+      "doc_count": 34
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p9390",
+      "label": "international trade",
+      "doc_count": 31
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p105023",
+      "label": "Japan",
+      "doc_count": 30
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p2387",
+      "label": "energy policy",
+      "doc_count": 29
+    },
+    {
+      "uri": "http://www.yso.fi/onto/yso/p17503",
+      "label": "nuclear weapons",
+      "doc_count": 29
+    }
+  ]
+}
