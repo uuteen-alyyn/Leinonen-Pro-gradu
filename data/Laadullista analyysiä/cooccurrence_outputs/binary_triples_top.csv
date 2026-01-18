@@ -1,0 +1,201 @@
+kw1,kw2,kw3,count
+"Russia","international politics","international relations",166
+"Russia","foreign policy","international relations",162
+"foreign policy","international politics","international relations",116
+"People's Republic of China","Russia","international relations",114
+"People's Republic of China","international politics","international relations",106
+"Russia","international relations","security policy",105
+"Russia","history","international relations",94
+"Russia","United States","international relations",89
+"Russia","foreign policy","international politics",86
+"history","international politics","international relations",85
+"foreign policy","history","international relations",79
+"foreign policy","international relations","security policy",74
+"Russia","international cooperation","international relations",64
+"Russia","history","political history",64
+"Russia","foreign policy","security policy",63
+"United States","foreign policy","international relations",63
+"United States","international politics","international relations",63
+"United States","international relations","security policy",62
+"international politics","international relations","security policy",61
+"Russia","Ukraine","international relations",61
+"Russia","international relations","political history",61
+"international cooperation","international politics","international relations",60
+"international politics","international relations","politics",60
+"history","international relations","political history",59
+"Russia","foreign policy","history",57
+"People's Republic of China","Russia","international politics",56
+"People's Republic of China","foreign policy","international relations",56
+"Russia","geopolitics","international relations",55
+"People's Republic of China","international cooperation","international relations",53
+"People's Republic of China","history","international relations",50
+"Russia","international relations","politics",48
+"Russia","United States","foreign policy",48
+"Russia","history","international politics",46
+"NATO","Russia","international relations",46
+"Cold War","international politics","international relations",46
+"international politics","international relations","power politics",46
+"Russia","United States","security policy",46
+"People's Republic of China","Russia","international cooperation",45
+"Russia","international relations","power politics",45
+"geopolitics","international politics","international relations",45
+"Cold War","Russia","international relations",44
+"People's Republic of China","United States","international relations",43
+"NATO","international relations","security policy",42
+"international politics","international relations","political history",42
+"foreign policy","international relations","political history",42
+"foreign policy","international relations","politics",40
+"foreign policy","history","international politics",39
+"People's Republic of China","Russia","foreign policy",39
+"Russia","international politics","politics",39
+"Russia","international politics","security policy",39
+"United States","history","international relations",39
+"Russia","foreign policy","politics",38
+"foreign policy","history","political history",38
+"People's Republic of China","international relations","security policy",38
+"foreign policy","international relations","power politics",38
+"Russia","foreign policy","political history",37
+"Russia","United States","international politics",37
+"international relations","safety and security","security policy",37
+"NATO","Russia","security policy",36
+"People's Republic of China","Russia","history",35
+"Russia","international cooperation","international politics",35
+"foreign policy","geopolitics","international relations",34
+"Russia","political history","politics",33
+"Russia","history","politics",32
+"Asia","People's Republic of China","international relations",32
+"Central Asia","People's Republic of China","international relations",32
+"People's Republic of China","geopolitics","international relations",31
+"Russia","foreign policy","power politics",31
+"Russia","international relations","strategies",31
+"People's Republic of China","history","international politics",30
+"People's Republic of China","international cooperation","international politics",30
+"international economics","international politics","international relations",30
+"Russia","foreign policy","geopolitics",30
+"Soviet Union","history","international relations",30
+"United States","foreign policy","security policy",30
+"geopolitics","international relations","security policy",30
+"People's Republic of China","foreign policy","international politics",29
+"foreign policy","international politics","politics",29
+"NATO","foreign policy","international relations",29
+"NATO","international politics","international relations",29
+"foreign policy","international politics","security policy",29
+"Ukraine","international relations","security policy",29
+"Ukraine","international politics","international relations",29
+"Cold War","international relations","security policy",29
+"NATO","Russia","foreign policy",28
+"Central Asia","Russia","international relations",28
+"Russia","Ukraine","foreign policy",28
+"Ukraine","foreign policy","international relations",28
+"BRI_Belt_and_Road","People's Republic of China","international relations",28
+"Russia","Ukraine","international politics",28
+"Russia","international politics","power politics",28
+"Cold War","United States","international relations",28
+"Russia","economic development","international relations",28
+"history","international politics","political history",27
+"Soviet Union","foreign policy","international relations",27
+"Russia","Ukraine","security policy",27
+"Russia","international politics","political history",27
+"Russia","Soviet Union","international relations",27
+"Russia","geopolitics","security policy",27
+"Cold War","history","international relations",26
+"Asia","Russia","international relations",26
+"United States","foreign policy","international politics",26
+"NATO","United States","international relations",26
+"United States","international relations","power politics",26
+"international relations","security policy","strategies",26
+"NATO","Russia","international politics",25
+"Russia","SCO_Shanghai_Cooperation_Organization","international relations",25
+"international cooperation","international relations","security policy",25
+"Cold War","foreign policy","international relations",25
+"People's Republic of China","Russia","United States",25
+"Russia","geopolitics","international politics",25
+"Russia","United States","history",25
+"Russia","international economics","international relations",24
+"People's Republic of China","international relations","politics",24
+"foreign policy","international cooperation","international relations",24
+"Cold War","international relations","power politics",24
+"People's Republic of China","international relations","power politics",24
+"foreign policy","international politics","power politics",24
+"Europe","international relations","security policy",24
+"Russia","safety and security","security policy",24
+"globalisation","international politics","international relations",23
+"history","international relations","politics",23
+"Soviet Union","foreign policy","history",23
+"Soviet Union","history","political history",23
+"Russia","economic policy","international relations",23
+"Ukraine","geopolitics","international relations",23
+"People's Republic of China","SCO_Shanghai_Cooperation_Organization","international relations",23
+"Cold War","Russia","international politics",23
+"Soviet Union","international relations","political history",23
+"NATO","Russia","United States",23
+"Russia","international relations","safety and security",23
+"Russia","foreign policy","international cooperation",22
+"NATO","foreign policy","security policy",22
+"Russia","Soviet Union","history",22
+"Asia","international politics","international relations",21
+"Soviet Union","international politics","international relations",21
+"BRI_Belt_and_Road","Russia","international relations",21
+"SCO_Shanghai_Cooperation_Organization","international cooperation","international relations",21
+"People's Republic of China","United States","international politics",21
+"United States","history","international politics",21
+"history","political history","politics",21
+"Asia","Central Asia","international relations",21
+"NATO","United States","security policy",21
+"United States","international politics","security policy",21
+"Russia","security policy","strategies",21
+"People's Republic of China","history","political history",20
+"Central Asia","People's Republic of China","Russia",20
+"Europe","Russia","international relations",20
+"NATO","international politics","security policy",20
+"Central Asia","foreign policy","international relations",20
+"Cold War","international relations","political history",20
+"United States","international relations","political history",20
+"history","international relations","security policy",20
+"international politics","international relations","strategies",20
+"economic policy","international politics","international relations",20
+"international relations","power politics","security policy",20
+"People's Republic of China","Russia","security policy",19
+"Cold War","People's Republic of China","international relations",19
+"foreign policy","international politics","political history",19
+"United States","foreign policy","history",19
+"BRI_Belt_and_Road","international politics","international relations",19
+"foreign policy","international relations","strategies",19
+"Ukraine","United States","international relations",19
+"United States","international politics","power politics",19
+"history","international politics","politics",18
+"Russia","Ukraine","geopolitics",18
+"Cold War","history","international politics",18
+"BRI_Belt_and_Road","People's Republic of China","Russia",18
+"Cold War","Russia","foreign policy",18
+"history","international relations","power politics",18
+"United States","geopolitics","international relations",18
+"Cold War","Russia","United States",18
+"Russia","Soviet Union","foreign policy",18
+"People's Republic of China","international economics","international relations",18
+"Cold War","Russia","security policy",18
+"Russia","elections","political history",18
+"Russia","Ukraine","United States",18
+"Russia","Soviet Union","political history",18
+"People's Republic of China","Russia","SCO_Shanghai_Cooperation_Organization",17
+"Cold War","international politics","power politics",17
+"People's Republic of China","Russia","power politics",17
+"People's Republic of China","international politics","power politics",17
+"People's Republic of China","United States","foreign policy",17
+"People's Republic of China","geopolitics","international politics",17
+"SCO_Shanghai_Cooperation_Organization","international politics","international relations",17
+"great powers","international politics","international relations",17
+"international relations","political history","politics",17
+"foreign policy","history","politics",17
+"People's Republic of China","foreign policy","history",17
+"Russia","history","security policy",17
+"People's Republic of China","international relations","safety and security",17
+"People's Republic of China","international relations","strategies",17
+"United States","international relations","strategies",17
+"international politics","international relations","safety and security",17
+"European Union countries","Russia","international relations",17
+"Asia","Central Asia","People's Republic of China",17
+"Russia","elections","politics",17
+"Russia","economic development","economic policy",17
+"diplomacy","international politics","international relations",16
+"People's Republic of China","international politics","politics",16
